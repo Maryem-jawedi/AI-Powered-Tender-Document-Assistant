@@ -1,0 +1,15 @@
+Flask
+gradio
+openai
+python-dotenv
+PyMuPDF
+pytesseract
+pdf2image
+pdfplumber
+Pillow
+spacy
+rapidfuzz
+reportlab
+PyPDF2
+pdfrw
+PyYAML
